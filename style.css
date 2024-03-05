@@ -1,0 +1,30 @@
+body{
+    font-family: "Chivo", sans-serif;
+    margin: 10px;
+}
+.topcontainer{
+    display: flex;
+}
+.topdiv{
+    width: 50%;
+    padding: 12px;
+
+}
+.topdiv img{
+    width: 580px;
+}
+.name{
+    color: orange;
+    font-size: 52px;
+}
+.midcontainer{
+    display: flex;
+}
+
+a{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 3px
+}
