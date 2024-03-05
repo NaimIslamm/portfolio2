@@ -1,9 +1,13 @@
 body{
     font-family: "Chivo", sans-serif;
-    margin: 10px;
+    margin: 0;
 }
 .topcontainer{
     display: flex;
+    margin-bottom: 100px;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 44px;
 }
 .topdiv{
     width: 50%;
@@ -19,6 +23,12 @@ body{
 }
 .midcontainer{
     display: flex;
+    padding: 2px;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 100px;
+
 }
 
 a{
